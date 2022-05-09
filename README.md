@@ -1,0 +1,1 @@
+Images compressed from one folder
